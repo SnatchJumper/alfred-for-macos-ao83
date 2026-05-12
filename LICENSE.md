@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with top Extension for Alfred for macOS - task automation and cloud backup, the #1 extension. Includes task automation and cloud backup for a smoother
 
 
 
